@@ -9,5 +9,7 @@ An example 1 legendary gold block include 59049 simple gold blocks
 
 Describing:
 gold - refined gold - purified gold - radiant gold - true gold - legendary gold
+
 mese - hard mese - hot mese - super mese - extreme mese - legendary mese
+
 diamond - refined diamond - purified diamond - radiant diamond - true diamond - legendary diamond
